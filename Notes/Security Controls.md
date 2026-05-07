@@ -18,15 +18,15 @@
 
 # 
 
-# | Topic | Details |
+# | Topic    | Details                                |
 
-# | --- | --- |
+# | -------- | -------------------------------------- |
 
-# | Purpose | Protect systems using technology |
+# | Purpose  | Protect systems using technology       |
 
-# | Focus | Automated security enforcement |
+# | Focus    | Automated security enforcement         |
 
-# | Examples | Firewalls, IDS/IPS, MFA, Encryption |
+# | Examples | Firewalls, IDS/IPS, MFA, Encryption    |
 
 # 
 
@@ -56,15 +56,15 @@
 
 # 
 
-# | Topic | Details |
+# | Topic    | Details                                |
 
-# | --- | --- |
+# | -------- | -------------------------------------- |
 
-# | Purpose | Manage security policies and risk |
+# | Purpose  | Manage security policies and risk      |
 
-# | Focus | Governance and planning |
+# | Focus    | Governance and planning                |
 
-# | Examples | Policies, audits, compliance reviews |
+# | Examples | Policies, audits, compliance reviews   |
 
 # 
 
@@ -94,15 +94,15 @@
 
 # 
 
-# | Topic | Details |
+# | Topic    | Details                                |
 
-# | --- | --- |
+# | -------- | -------------------------------------- |
 
-# | Purpose | Support daily security operations |
+# | Purpose  | Support daily security operations      |
 
-# | Focus | Human-driven processes |
+# | Focus    | Human-driven processes                 |
 
-# | Examples | Training, patching, backups |
+# | Examples | Training, patching, backups            |
 
 # 
 
@@ -132,15 +132,15 @@
 
 # 
 
-# | Topic | Details |
+# | Topic    | Details                                |
 
-# | --- | --- |
+# | -------- | -------------------------------------- |
 
-# | Purpose | Protect physical assets |
+# | Purpose  | Protect physical assets                |
 
-# | Focus | Prevent physical access |
+# | Focus    | Prevent physical access                |
 
-# | Examples | Guards, CCTV, locks, fences |
+# | Examples | Guards, CCTV, locks, fences            |
 
 # 
 
@@ -174,15 +174,15 @@
 
 # 
 
-# | Topic | Details |
+# | Topic    | Details                                |
 
-# | --- | --- |
+# | -------- | -------------------------------------- |
 
-# | Purpose | Stop incidents before they occur |
+# | Purpose  | Stop incidents before they occur       |
 
-# | Goal | Reduce attack success |
+# | Goal     | Reduce attack success                  |
 
-# | Examples | Firewalls, MFA, ACLs |
+# | Examples | Firewalls, MFA, ACLs                   |
 
 # 
 
@@ -210,15 +210,15 @@
 
 # 
 
-# | Topic | Details |
+# | Topic    | Details                                |
 
-# | --- | --- |
+# | -------- | -------------------------------------- |
 
-# | Purpose | Detect malicious activity |
+# | Purpose  | Detect malicious activity              |
 
-# | Goal | Alert security teams |
+# | Goal     | Alert security teams                   |
 
-# | Examples | IDS, SIEM, CCTV, log reviews |
+# | Examples | IDS, SIEM, CCTV, log reviews           |
 
 # 
 
@@ -246,15 +246,15 @@
 
 # 
 
-# | Topic | Details |
+# | Topic    | Details                                |
 
-# | --- | --- |
+# | -------- | -------------------------------------- |
 
-# | Purpose | Restore systems after incidents |
+# | Purpose  | Restore systems after incidents        |
 
-# | Goal | Minimize damage |
+# | Goal     | Minimize damage                        |
 
-# | Examples | Backups, reimaging, recovery plans |
+# | Examples | Backups, reimaging, recovery plans     |
 
 # 
 
@@ -282,15 +282,15 @@
 
 # 
 
-# | Topic | Details |
+# | Topic    | Details                                |
 
-# | --- | --- |
+# | -------- | -------------------------------------- |
 
-# | Purpose | Discourage attackers |
+# | Purpose  | Discourage attackers                   |
 
-# | Goal | Reduce likelihood of attacks |
+# | Goal     | Reduce likelihood of attacks           |
 
-# | Examples | Warning signs, guards, cameras |
+# | Examples | Warning signs, guards, cameras         |
 
 # 
 
@@ -318,15 +318,15 @@
 
 # 
 
-# | Topic | Details |
+# | Topic    | Details                                |
 
-# | --- | --- |
+# | -------- | -------------------------------------- |
 
-# | Purpose | Provide alternative protection |
+# | Purpose  | Provide alternative protection         |
 
-# | Goal | Replace unavailable primary controls |
+# | Goal     | Replace unavailable primary controls   |
 
-# | Examples | MFA, segmentation, extra monitoring |
+# | Examples | MFA, segmentation, extra monitoring    |
 
 # 
 
@@ -354,13 +354,13 @@
 
 # 
 
-# | Topic | Details |
+# | Topic    | Details                                |
 
-# | --- | --- |
+# | -------- | -------------------------------------- |
 
-# | Purpose | Guide user behavior |
+# | Purpose  | Guide user behavior                    |
 
-# | Goal | Ensure compliance |
+# | Goal     | Ensure compliance                      |
 
 # | Examples | Policies, procedures, awareness training |
 
@@ -390,13 +390,13 @@
 
 # 
 
-# | Topic | Details |
+# | Topic    | Details                                |
 
-# | --- | --- |
+# | -------- | -------------------------------------- |
 
-# | Purpose | Restore operations after disruption |
+# | Purpose  | Restore operations after disruption    |
 
-# | Goal | Resume business functions |
+# | Goal     | Resume business functions              |
 
 # | Examples | Backup restoration, DRP, alternate sites |
 
@@ -426,23 +426,23 @@
 
 # 
 
-# | Control Type | Main Goal |
+# | Control Type | Main Goal               |
 
-# | --- | --- |
+# | ------------ | ----------------------- |
 
-# | Preventive | Stop attacks |
+# | Preventive   | Stop attacks            |
 
-# | Detective | Find attacks |
+# | Detective    | Find attacks            |
 
-# | Corrective | Fix damage |
+# | Corrective   | Fix damage              |
 
-# | Deterrent | Discourage attacks |
+# | Deterrent    | Discourage attacks      |
 
-# | Compensating | Alternative protection |
+# | Compensating | Alternative protection  |
 
-# | Directive | Guide behavior |
+# | Directive    | Guide behavior          |
 
-# | Recovery | Restore operations |
+# | Recovery     | Restore operations      |
 
 # 
 
@@ -454,55 +454,27 @@
 
 # 
 
-# | Keyword Seen | Likely Answer |
+# | Keyword Seen            | Likely Answer         |
 
-# | --- | --- |
+# | ----------------------- | --------------------- |
 
-# | Firewall | Preventive |
+# | Firewall                | Preventive            |
 
-# | IDS | Detective |
+# | IDS                     | Detective             |
 
-# | Backup | Corrective / Recovery |
+# | Backup                  | Corrective / Recovery |
 
-# | Warning Sign | Deterrent |
+# | Warning Sign            | Deterrent             |
 
-# | Policies | Directive |
+# | Policies                | Directive             |
 
-# | MFA as backup solution | Compensating |
+# | MFA as backup solution  | Compensating          |
 
-# | Disaster Recovery | Recovery |
+# | Disaster Recovery       | Recovery              |
 
 # 
 
 # \---
 
 # 
-
-# \# 🔥 SOC Analyst Relevance
-
-# 
-
-# Security controls are heavily used in:
-
-# \- SIEM monitoring
-
-# \- Threat detection
-
-# \- Incident response
-
-# \- Compliance audits
-
-# \- Vulnerability management
-
-# 
-
-# Understanding these controls helps analysts:
-
-# \- classify risks
-
-# \- analyze alerts
-
-# \- recommend mitigations
-
-# \- improve defenses
 

@@ -2,11 +2,11 @@
 
 # 
 
-# | Topic | Details |
+# | Topic   | Details         |
 
-# |-------|---------|
+# |-------  |-----------------|
 
 # | Purpose | Protect systems |
 
-# | Focus | Security |
+# | Focus   | Security 	    |
 

@@ -4,7 +4,7 @@
 
 # | Topic | Details |
 
-# | --- | --- |
+# |-------|---------|
 
 # | Purpose | Protect systems |
 

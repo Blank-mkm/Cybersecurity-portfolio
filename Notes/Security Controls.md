@@ -6,6 +6,8 @@
 
 # 
 
+# \---
+
 # 
 
 # \# 🛡️ Security Control Categories
@@ -16,15 +18,15 @@
 
 # 
 
-# |  Topic        | Details                                      |
+# | Topic | Details |
 
-# |---------------|----------------------------------------------|
+# | --- | --- |
 
-# | Purpose       | Protect systems using technology             |
+# | Purpose | Protect systems using technology |
 
-# | Focus         | Automated security enforcement               |
+# | Focus | Automated security enforcement |
 
-# | Examples      | Firewalls, IDS/IPS, MFA, encryption          |
+# | Examples | Firewalls, IDS/IPS, MFA, Encryption |
 
 # 
 
@@ -46,21 +48,23 @@
 
 # 
 
+# \---
+
 # 
 
 # \## 🔹 Managerial Controls (Administrative Controls)
 
-# &#x20;
+# 
 
-# |  Topic        | Details                                      |
+# | Topic | Details |
 
-# |---------------|----------------------------------------------|
+# | --- | --- |
 
-# | Purpose       | Manage security policies and risk            |
+# | Purpose | Manage security policies and risk |
 
-# | Focus         | Governance and planning                      |
+# | Focus | Governance and planning |
 
-# | Examples      | Security policies, audits, risk assessments  |
+# | Examples | Policies, audits, compliance reviews |
 
 # 
 
@@ -70,11 +74,11 @@
 
 # \- policies
 
+# \- procedures
+
 # \- governance
 
 # \- compliance
-
-# \- procedures
 
 # 
 
@@ -82,19 +86,23 @@
 
 # 
 
+# \---
+
+# 
+
 # \## 🔹 Operational Controls
 
 # 
 
-# | Topic         | Details                                      |
+# | Topic | Details |
 
-# |---------------|----------------------------------------------|
+# | --- | --- |
 
-# | Purpose       | Maintain daily security operations           |
+# | Purpose | Support daily security operations |
 
-# | Focus         | Human-driven security tasks                  |
+# | Focus | Human-driven processes |
 
-# | Examples      | Security training, backups, patching         |
+# | Examples | Training, patching, backups |
 
 # 
 
@@ -108,7 +116,7 @@
 
 # \- training
 
-# \- daily operations
+# \- daily procedures
 
 # 
 
@@ -116,31 +124,35 @@
 
 # 
 
+# \---
+
+# 
+
 # \## 🔹 Physical Controls
 
 # 
 
-# |  Topic        | Details                                      |
+# | Topic | Details |
 
-# |---------------|----------------------------------------------|
+# | --- | --- |
 
-# | Purpose       | Protect physical environments                |
+# | Purpose | Protect physical assets |
 
-# | Focus         | Prevent unauthorized physical access         |
+# | Focus | Prevent physical access |
 
-# | Examples      | Guards, CCTV, locks, fences                  |
+# | Examples | Guards, CCTV, locks, fences |
 
 # 
 
 # \### Exam Clue
 
-# If it physically protects:
+# If the control physically protects:
 
 # \- buildings
 
-# \- equipment
-
 # \- rooms
+
+# \- equipment
 
 # \- people
 
@@ -149,6 +161,8 @@
 # ➡️ Think \*\*Physical Control\*\*
 
 # 
+
+# \---
 
 # 
 
@@ -160,43 +174,27 @@
 
 # 
 
-# |  Topic        | Details                                      |
+# | Topic | Details |
 
-# |---------------|----------------------------------------------|
+# | --- | --- |
 
-# | Purpose       | Stop incidents before they occur             |
+# | Purpose | Stop incidents before they occur |
 
-# | Goal          | Reduce attack success                        |
+# | Goal | Reduce attack success |
 
-# 
-
-# \### Examples
-
-# 
-
-# | Example       | Purpose                                      |
-
-# |---------------|----------------------------------------------|
-
-# | Firewall      | Blocks unauthorized traffic                  |
-
-# | MFA           | Prevents unauthorized logins                 |
-
-# | ACL           | Restricts access permissions                 |
-
-# | Encryption    | Prevents data exposure                       |
+# | Examples | Firewalls, MFA, ACLs |
 
 # 
 
 # \### Exam Clue
 
-# If the control is trying to:
+# If the control:
 
-# \- stop
+# \- blocks
 
-# \- block
+# \- stops
 
-# \- prevent
+# \- prevents
 
 # 
 
@@ -204,37 +202,23 @@
 
 # 
 
+# \---
+
 # 
 
 # \## 🔍 Detective Controls
 
 # 
 
-# |  Topic        | Details                                      |
+# | Topic | Details |
 
-# |---------------|----------------------------------------------|
+# | --- | --- |
 
-# | Purpose       | Identify or discover incidents               |
+# | Purpose | Detect malicious activity |
 
-# | Goal          | Alert security teams                         |
+# | Goal | Alert security teams |
 
-# 
-
-# \### Examples
-
-# 
-
-# | Example       | Purpose                                      |
-
-# |---------------|----------------------------------------------|
-
-# | IDS           | Detects suspicious activity                  |
-
-# | SIEM          | Monitors logs and alerts                     |
-
-# | CCTV          | Observes activity                            |
-
-# | Log Reviews   | Detects anomalies                            |
+# | Examples | IDS, SIEM, CCTV, log reviews |
 
 # 
 
@@ -254,33 +238,23 @@
 
 # 
 
+# \---
+
+# 
+
 # \## 🔧 Corrective Controls
 
 # 
 
-# |  Topic        | Details                                      |
+# | Topic | Details |
 
-# |---------------|----------------------------------------------|
+# | --- | --- |
 
-# | Purpose       | Restore systems after incidents              |
+# | Purpose | Restore systems after incidents |
 
-# | Goal          | Minimize damage and recover operations       |
+# | Goal | Minimize damage |
 
-# 
-
-# \### Examples
-
-# 
-
-# | Example              | Purpose                               |
-
-# |----------------------|---------------------------------------|
-
-# | Backups              | Restore lost data                     |
-
-# | Disaster Recovery    | Recover infrastructure                |
-
-# | Reimaging Systems    | Remove malware                        |
+# | Examples | Backups, reimaging, recovery plans |
 
 # 
 
@@ -290,9 +264,9 @@
 
 # \- restores
 
-# \- recovers
-
 # \- repairs
+
+# \- fixes
 
 # 
 
@@ -300,47 +274,35 @@
 
 # 
 
+# \---
+
+# 
+
 # \## 🚧 Deterrent Controls
 
 # 
 
-# | Topic         | Details                                      |
+# | Topic | Details |
 
-# |---------------|----------------------------------------------|
+# | --- | --- |
 
-# | Purpose       | Discourage attackers                         |
+# | Purpose | Discourage attackers |
 
-# | Goal          | Make attacks less likely                     |
+# | Goal | Reduce likelihood of attacks |
 
-# 
-
-# \### Examples
-
-# 
-
-# | Example            | Purpose                            |
-
-# |--------------------|------------------------------------|
-
-# | Warning Signs      | Discourage intruders               |
-
-# | Security Guards    | Visible security presence          |
-
-# | Cameras            | Deter suspicious behavior          |
-
-# | Lighting           | Reduce hidden activity             |
+# | Examples | Warning signs, guards, cameras |
 
 # 
 
 # \### Exam Clue
 
-# If the control is designed to:
+# If the control:
 
-# \- discourage
+# \- discourages
 
-# \- intimidate
+# \- warns
 
-# \- warn
+# \- intimidates
 
 # 
 
@@ -348,33 +310,23 @@
 
 # 
 
+# \---
+
+# 
+
 # \## 🧱 Compensating Controls
 
 # 
 
-# | Topic         | Details                                      |
+# | Topic | Details |
 
-# |---------------|----------------------------------------------|
+# | --- | --- |
 
-# | Purpose       | Provide alternative protection               |
+# | Purpose | Provide alternative protection |
 
-# | Goal          | Replace unavailable primary controls         |
+# | Goal | Replace unavailable primary controls |
 
-# 
-
-# \### Examples
-
-# 
-
-# | Example                | Purpose                           |
-
-# |------------------------|-----------------------------------|
-
-# | MFA                    | Extra login protection            |
-
-# | Network Segmentation   | Limits lateral movement           |
-
-# | Additional Monitoring  | Improves visibility               |
+# | Examples | MFA, segmentation, extra monitoring |
 
 # 
 
@@ -382,9 +334,9 @@
 
 # If the question mentions:
 
-# \- alternative protection
-
 # \- substitute control
+
+# \- alternative protection
 
 # \- temporary solution
 
@@ -394,33 +346,23 @@
 
 # 
 
+# \---
+
+# 
+
 # \## ⚡ Directive Controls
 
 # 
 
-# | Topic         | Details                                      |
+# | Topic | Details |
 
-# |---------------|----------------------------------------------|
+# | --- | --- |
 
-# | Purpose       | Direct user behavior                         |
+# | Purpose | Guide user behavior |
 
-# | Goal          | Ensure compliance with rules                 |
+# | Goal | Ensure compliance |
 
-# 
-
-# \### Examples
-
-# 
-
-# | Example              | Purpose                             |
-
-# |----------------------|-------------------------------------|
-
-# | Security Policies    | Define expected behavior            |
-
-# | Awareness Training   | Teach secure practices              |
-
-# | Procedures           | Standardize operations              |
+# | Examples | Policies, procedures, awareness training |
 
 # 
 
@@ -428,11 +370,11 @@
 
 # If the control:
 
-# \- instructs
-
 # \- guides
 
-# \- directs behavior
+# \- directs
+
+# \- instructs
 
 # 
 
@@ -440,33 +382,23 @@
 
 # 
 
+# \---
+
+# 
+
 # \## 🔒 Recovery Controls
 
 # 
 
-# | Topic         | Details                                      |
+# | Topic | Details |
 
-# |---------------|----------------------------------------------|
+# | --- | --- |
 
-# | Purpose       | Restore operations after disruption          |
+# | Purpose | Restore operations after disruption |
 
-# | Goal          | Resume business functions quickly            |
+# | Goal | Resume business functions |
 
-# 
-
-# \### Examples
-
-# 
-
-# | Example                | Purpose                          |
-
-# |------------------------|----------------------------------|
-
-# | Backup Restoration     | Recover lost data                |
-
-# | Alternate Site         | Resume operations                |
-
-# | Disaster Recovery Plan | Restore infrastructure           |
+# | Examples | Backup restoration, DRP, alternate sites |
 
 # 
 
@@ -474,11 +406,11 @@
 
 # If the focus is:
 
+# \- disaster recovery
+
 # \- restoring operations
 
 # \- business continuity
-
-# \- disaster recovery
 
 # 
 
@@ -486,27 +418,35 @@
 
 # 
 
+# \---
+
+# 
+
 # \# 🧠 Quick Memory Table
 
 # 
 
-# | Control Type  | Main Goal                      |
+# | Control Type | Main Goal |
 
-# |---------------|--------------------------------|
+# | --- | --- |
 
-# | Preventive    | Stop attacks                   |
+# | Preventive | Stop attacks |
 
-# | Detective     | Find attacks                   |
+# | Detective | Find attacks |
 
-# | Corrective    | Fix damage                     |
+# | Corrective | Fix damage |
 
-# | Deterrent     | Discourage attackers           |
+# | Deterrent | Discourage attacks |
 
-# | Compensating  | Provide alternative security   |
+# | Compensating | Alternative protection |
 
-# | Directive     | Guide behavior                 |
+# | Directive | Guide behavior |
 
-# | Recovery      | Restore operations             |
+# | Recovery | Restore operations |
+
+# 
+
+# \---
 
 # 
 
@@ -514,23 +454,55 @@
 
 # 
 
-# | Keyword Seen in Question  | Likely Answer        |
+# | Keyword Seen | Likely Answer |
 
-# |---------------------------|----------------------|
+# | --- | --- |
 
-# | Firewall                  | Preventive           |
+# | Firewall | Preventive |
 
-# | IDS                       | Detective            |
+# | IDS | Detective |
 
-# | Backup                    | Corrective/Recovery  |
+# | Backup | Corrective / Recovery |
 
-# | Warning Sign              | Deterrent            |
+# | Warning Sign | Deterrent |
 
-# | Policies                  | Directive            |
+# | Policies | Directive |
 
-# | MFA as backup solution    | Compensating         |
+# | MFA as backup solution | Compensating |
 
-# | Disaster Recovery         | Recovery             |
+# | Disaster Recovery | Recovery |
 
 # 
+
+# \---
+
+# 
+
+# \# 🔥 SOC Analyst Relevance
+
+# 
+
+# Security controls are heavily used in:
+
+# \- SIEM monitoring
+
+# \- Threat detection
+
+# \- Incident response
+
+# \- Compliance audits
+
+# \- Vulnerability management
+
+# 
+
+# Understanding these controls helps analysts:
+
+# \- classify risks
+
+# \- analyze alerts
+
+# \- recommend mitigations
+
+# \- improve defenses
 

@@ -1,36 +1,116 @@
-# Cybersecurity-portfolio
+# \# 🔐 Cybersecurity Portfolio
 
+# 
 
+# Welcome to my cybersecurity portfolio repository.
 
-I am an aspiring Cybersecurity Analyst with a strong foundation in both blue team and red team concepts.
+# 
 
+# I am an OSCP-certified cybersecurity professional and a graduate in Cybersecurity \& Networks, currently expanding my knowledge in blue team operations, SOC analysis, and defensive security practices while preparing for the CompTIA Security+ certification.
 
+# 
 
-I hold the Offensive Security Certified Professional (OSCP) certification and have hands-on experience in penetration testing, vulnerability assessment, and exploitation.
+# My background includes hands-on experience in:
 
+# \- Penetration testing
 
+# \- Vulnerability assessment
 
-Currently, I am focused on developing my defensive (blue team) skills, including log analysis, threat detection, and security monitoring, while preparing for CompTIA Security+.
+# \- Enumeration and exploitation
 
+# \- Networking fundamentals
 
+# \- Security operations concepts
 
-This repository contains my cybersecurity learning journey, including:
+# 
 
+# This repository documents my cybersecurity learning journey and practical work through:
 
+# \- Security+ study notes
 
-\- Security+ notes
+# \- Networking notes and labs
 
-\- Hands-on labs
+# \- SOC analyst learning material
 
-\- SOC Analyst skills development
+# \- Hands-on cybersecurity labs
 
+# \- TryHackMe write-ups
 
+# \- Blue team and threat detection exercises
 
-\## Current Focus
+# 
 
-\- CompTIA Security+
+# \---
 
-\- Networking fundamentals
+# 
 
-\- Blue team skills (Splunk, Wireshark)
+# \# 🎯 Current Focus
+
+# 
+
+# \- CompTIA Security+ (SY0-701)
+
+# \- SOC Analyst skills development
+
+# \- SIEM tools (Splunk)
+
+# \- Threat detection and log analysis
+
+# \- Networking fundamentals
+
+# \- Wireshark and packet analysis
+
+# \- Cisco Packet Tracer labs
+
+# 
+
+# \---
+
+# 
+
+# \# 🛠️ Tools \& Platforms
+
+# 
+
+# \- Splunk
+
+# \- Wireshark
+
+# \- Nmap
+
+# \- Kali Linux
+
+# \- Burp Suite
+
+# \- Cisco Packet Tracer
+
+# \- TryHackMe
+
+# \- GitHub
+
+# 
+
+# \---
+
+# 
+
+# \# 📚 Certifications
+
+# 
+
+# \- Offensive Security Certified Professional (OSCP)
+
+# \- CompTIA Security+ (In Progress)
+
+# 
+
+# \---
+
+# 
+
+# \# 🚀 Goal
+
+# 
+
+# My goal is to continue building practical cybersecurity skills and transition into a Security Operations Center (SOC) Analyst role focused on threat detection, incident response, and security monitoring.
 

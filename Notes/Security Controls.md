@@ -6,8 +6,6 @@
 
 # 
 
-# \---
-
 # 
 
 # \# 🛡️ Security Control Categories
@@ -48,8 +46,6 @@
 
 # 
 
-# \---
-
 # 
 
 # \## 🔹 Managerial Controls (Administrative Controls)
@@ -83,10 +79,6 @@
 # 
 
 # ➡️ Think \*\*Managerial Control\*\*
-
-# 
-
-# \---
 
 # 
 
@@ -124,10 +116,6 @@
 
 # 
 
-# \---
-
-# 
-
 # \## 🔹 Physical Controls
 
 # 
@@ -161,8 +149,6 @@
 # ➡️ Think \*\*Physical Control\*\*
 
 # 
-
-# \---
 
 # 
 
@@ -218,8 +204,6 @@
 
 # 
 
-# \---
-
 # 
 
 # \## 🔍 Detective Controls
@@ -270,10 +254,6 @@
 
 # 
 
-# \---
-
-# 
-
 # \## 🔧 Corrective Controls
 
 # 
@@ -317,10 +297,6 @@
 # 
 
 # ➡️ Think \*\*Corrective Control\*\*
-
-# 
-
-# \---
 
 # 
 
@@ -372,10 +348,6 @@
 
 # 
 
-# \---
-
-# 
-
 # \## 🧱 Compensating Controls
 
 # 
@@ -419,10 +391,6 @@
 # 
 
 # ➡️ Think \*\*Compensating Control\*\*
-
-# 
-
-# \---
 
 # 
 
@@ -472,10 +440,6 @@
 
 # 
 
-# \---
-
-# 
-
 # \## 🔒 Recovery Controls
 
 # 
@@ -522,10 +486,6 @@
 
 # 
 
-# \---
-
-# 
-
 # \# 🧠 Quick Memory Table
 
 # 
@@ -547,10 +507,6 @@
 # | Directive     | Guide behavior                 |
 
 # | Recovery      | Restore operations             |
-
-# 
-
-# \---
 
 # 
 
@@ -577,6 +533,4 @@
 # | Disaster Recovery         | Recovery             |
 
 # 
-
-# \---
 

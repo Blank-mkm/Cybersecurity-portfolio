@@ -249,17 +249,3 @@ If the focus is:
 
 ---
 
-# 🔥 SOC Analyst Relevance
-
-Security controls are heavily used in:
-- SIEM monitoring
-- Threat detection
-- Incident response
-- Compliance audits
-- Vulnerability management
-
-Understanding these controls helps analysts:
-- classify risks
-- analyze alerts
-- recommend mitigations
-- improve defenses
